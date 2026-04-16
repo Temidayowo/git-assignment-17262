@@ -3,7 +3,7 @@ import Hero from "./components/Hero"
 import Project from "./components/Project";
 import Service from "./components/Service";
 import About from "./components/About";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
